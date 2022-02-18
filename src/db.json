@@ -1,0 +1,30 @@
+{
+    "logs": [
+      {
+        "message": "not ali",
+        "attention": true,
+        "tech": "ali rajabi 3",
+        "date": "2021-06-02T15:19:57.196Z",
+        "id": 1
+      },
+      {
+        "message": "server 2",
+        "attention": false,
+        "tech": "ali rajabi 3",
+        "date": "2021-06-02T14:54:40.466Z",
+        "id": 2
+      }
+    ],
+    "techs": [
+      {
+        "id": "1",
+        "firstName": "ali",
+        "lastName": "rajabi"
+      },
+      {
+        "firstName": "milad",
+        "lastName": "moradi",
+        "id": "2zUEzwL"
+      }
+    ]
+  }
